@@ -1,0 +1,1 @@
+- [ ] Fix todo parse. Dont show project and other tags in the console UI. only the necesary
